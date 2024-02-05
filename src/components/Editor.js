@@ -5,9 +5,9 @@ import 'codemirror/theme/dracula.css';
 import 'codemirror/mode/javascript/javascript';
 import 'codemirror/addon/edit/closetag';
 import 'codemirror/addon/edit/closebrackets';
-import ACTIONS from '../Action';
+import ACTIONS from '../Actions';
 
-const Editor1 = ({ socketRef, roomId, onCodeChange }) => {
+const Editor = ({ socketRef, roomId, onCodeChange }) => {
     const editorRef = useRef(null);
     useEffect(() => {
         async function init() {
@@ -47,12 +47,11 @@ const Editor1 = ({ socketRef, roomId, onCodeChange }) => {
         }
 
         return () => {
-            // eslint-disable-next-line react-hooks/exhaustive-deps
             socketRef.current.off(ACTIONS.CODE_CHANGE);
         };
-    }, [socketRef]);
+    }, [socketRef.current]);
 
     return <textarea id="realtimeEditor"></textarea>;
 };
 
-export default Editor1;
+export default Editor;
