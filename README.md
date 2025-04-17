@@ -141,12 +141,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
-
-- **Author**: [Sameer](https://github.com/SAMEER-40)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
 ---
 
 ## 🙏 Acknowledgements
@@ -157,7 +151,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/)
 
 ---
-
-Feel free to customize this `README.md` to better fit your project's specifics. Adding visuals like screenshots or GIFs can further enhance its appeal. For more inspiration, consider exploring [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) or [shields.io](https://shields.io) for badges.
-
-If you need assistance with deployment instructions or additional features, feel free to ask! 
