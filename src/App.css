@@ -2,12 +2,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #a9c0e9;
     height: 100vh;
 }
 
 .formWrapper {
-    background: #282a36;
+    background: #000000;
     padding: 20px;
     border-radius: 10px;
     width: 400px;
@@ -95,9 +95,9 @@ footer a:hover {
 }
 
 .aside {
-    background: #1c1e29;
+    background: #000000;
     padding: 16px;
-    color: #fff;
+    color: #dee8f7;
     display: flex;
     flex-direction: column;
 }

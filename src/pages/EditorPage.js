@@ -98,8 +98,8 @@ const EditorPage = () => {
                     <div className="logo">
                         <img
                             className="logoImage"
-                            src="/code-sync.png"
-                            alt="logo"
+                            src="/Web_Photo_Editor.jpg"
+                            alt="mergepad/public/Web_Photo_Editor.jpg"
                         />
                     </div>
                     <h3>Connected</h3>
