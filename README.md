@@ -32,7 +32,8 @@
 
 ## 📸 Screenshots
 
-![MergePad Screenshot]("./public/Screenshot%202025-04-18%20021240.png", )
+![Screenshot 1](./public/Screenshot%202025-04-18%20021240.png) ![Screenshot 2](./public/Screenshot%202025-04-18%20021257.png) ![Screenshot 2](./public/Screenshot%202025-04-18%20021457.png)
+
 
 ---
 
